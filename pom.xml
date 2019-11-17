@@ -12,7 +12,7 @@
 	<artifactId>springflyway</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springflyway</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Example project using Spring-boot and flyway</description>
 
 	<properties>
 		<java.version>1.8</java.version>
